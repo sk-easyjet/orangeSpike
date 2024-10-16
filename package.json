@@ -1,0 +1,17 @@
+{
+  "name": "orange-spike",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.670.0",
+    "aws-sdk": "^2.1691.0",
+    "axios": "^1.7.7",
+    "builtwith-api": "^1.0.6",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "googleapis": "^144.0.0",
+    "robots-parser": "^3.0.1",
+    "winston": "^3.15.0"
+  }
+}
